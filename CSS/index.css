@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: aqua;
+}
+
+.header {
+    color: brown;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.div-maxed {
+    max-width: 200px;
+}
